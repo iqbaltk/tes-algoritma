@@ -1,5 +1,2 @@
-# tes-algoritma
-Test Algoritma
-
-Web News Api
+# Web News Api
 https://github.com/iqbaltk/ReactNews
